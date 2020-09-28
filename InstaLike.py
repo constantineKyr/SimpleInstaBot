@@ -8,11 +8,7 @@ class InstaLike(InstaLogin):
         super().__init__(username, password, chrome_driver_path)
     
     def hashtags(self, hashtag_list):
-
-        user_list = []
-        likes = 0
         tag = -1
-
         for hashtag in hashtag_list:
             tag += 1
             self.driver.get('https://www.instagram.com/explore/tags/'+ hashtag_list[tag] + '/')
