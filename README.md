@@ -1,5 +1,5 @@
 # SimpleInstaBot
-Simple Instagram Bot that automates liking tasks.
+Simple Instagram Bot that automates liking, following and unfollowing unfollowers tasks.
 
 ## Description
 This program automatically performs tasks that an instagram user would do manually. It is written in python3 and uses selenium, a free (open-source) automated testing framework.
