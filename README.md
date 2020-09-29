@@ -12,6 +12,6 @@ This program automatically performs tasks that an instagram user would do manual
 1. Open terminal
 2. Create and run a new python environment. (read the docs for how you should do it https://docs.python.org/3/tutorial/venv.html).
 3. Open Main.py, add your instagram credentials and the path to chromedriver.
-4. Add your hashtags you want to search and like images from ('I have added "travel" as a default hashtag. You can add whatever you want, like: ["travel", "love", "heart"] etc')
+4. Add your hashtags you want to search (I have added "travel" as a default hashtag. You can add whatever you want, like: ["travel", "love", "heart"] etc)
 5. Run Main.py on Terminal
 6. Voila !
